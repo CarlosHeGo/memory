@@ -92,6 +92,6 @@ function App() {
       <Tablero cartas={cartas} manejarClicCarta={manejarClicCarta} />
     </div>
   );
-}
+};
 
 export default App;
